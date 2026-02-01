@@ -42,9 +42,9 @@ An **epoch** refers to one complete pass of the entire training dataset through 
 Based on my observation, The model sees all training samples once. Data is usually split into **batches**
 
 For each batch:
-  • Predictions are made
-  • Loss is calculated 
-  • Weights are updated using backpropagation
+- Predictions are made
+- Loss is calculated
+- Weights are updated using backpropagation
 
 By observing the changes in accuracy per epoch, I was able to see how the model learned over time.
 

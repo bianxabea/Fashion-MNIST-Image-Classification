@@ -8,7 +8,7 @@
 
 Fashion MNIST is a popular machine learning dataset used for image classification, created as a modern replacement for the classic MNIST handwritten digits dataset. Each image is **28×28 pixels** and represents different clothing items such as:
 
-- Shirts, CoatS and Dresses
+- Shirts, Coats and Dresses
 - Shoes and Sandals
 - Trousers
 - Bags
